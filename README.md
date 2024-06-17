@@ -2,7 +2,7 @@
 
 A Desktop Application for managing a `college` data. It's developed using `VB.Net` programming language & `MySQL` database.
 
-![GitHub License](https://img.shields.io/github/license/y0geshx/Collage-Management-System?logo=github)
+
 
 ### Requirements
 
@@ -17,7 +17,7 @@ A Desktop Application for managing a `college` data. It's developed using `VB.Ne
   **For Windows run below commands before cloning the Repo.**
 
   ```
-  $ git clone https://github.com/y0geshx/Collage-Management-System.git 
+  
 
   ```
   - Open Collage-Management-System folder in visual studio and run CMS_Project.sln
